@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imranrehman297
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on website devolopement
+- 💞️ I’m looking to collaborate
 
 
 <!---
